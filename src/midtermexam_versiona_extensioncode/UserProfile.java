@@ -14,7 +14,9 @@ package midtermexam_versiona_extensioncode;
  * @author dancye, 2019
  */
 public class UserProfile 
+    
 {
+    // i have put comment in my git hub in userprofile
     
     private String userID;//the userID
     private String genre;// the user's preferred genre of movie
